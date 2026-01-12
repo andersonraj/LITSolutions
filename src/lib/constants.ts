@@ -3,7 +3,7 @@
   description:
     "Global, remote-first IT services for modern businesses. Premium websites, web apps, automation, and secure managed cloud hosting.",
   url: "https://litsolutions.com",
-  email: "hello@litsolutions.com",
+  email: "contact@litsolution.net",
 };
 
 export const navLinks = [

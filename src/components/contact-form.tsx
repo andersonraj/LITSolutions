@@ -198,7 +198,7 @@ export function ContactForm() {
           {isSubmitting ? "Sending..." : "Submit Request"}
         </Button>
         <p className="text-xs text-muted-foreground">
-          Alternative contact: hello@litsolutions.com - placeholder
+          Alternative contact: contact@litsolution.net
         </p>
       </div>
     </form>

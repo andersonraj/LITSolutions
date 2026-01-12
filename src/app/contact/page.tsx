@@ -53,7 +53,7 @@ export default function ContactPage() {
                     <div>
                       <CardTitle className="text-lg">Email</CardTitle>
                       <CardDescription className="mt-1 text-sm">
-                        hello@litsolutions.com
+                        contact@litsolution.net
                       </CardDescription>
                     </div>
                   </div>

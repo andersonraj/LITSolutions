@@ -60,7 +60,7 @@ export default function PrivacyPage() {
           <div className="space-y-2">
             <h2 className="text-lg font-semibold text-foreground">Contact</h2>
             <p>
-              Questions about privacy can be sent to hello@litsolutions.com.
+              Questions about privacy can be sent to contact@litsolution.net.
             </p>
           </div>
         </Reveal>
