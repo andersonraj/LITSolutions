@@ -127,6 +127,10 @@
   * {
     @apply border-border outline-ring/50;
   }
+  select option {
+    color: hsl(var(--popover-foreground));
+    background-color: hsl(var(--popover));
+  }
   html {
     scroll-behavior: smooth;
   }
